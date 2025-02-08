@@ -1,3 +1,4 @@
+This repo was forked for me to understand forking
 ## Connect to Firebase
 
 ```js
